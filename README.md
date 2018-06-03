@@ -1,0 +1,1 @@
+Follow along at https://pyglet.readthedocs.io/en/pyglet-1.3-maintenance/programming_guide/examplegame.html#programming-guide-game
